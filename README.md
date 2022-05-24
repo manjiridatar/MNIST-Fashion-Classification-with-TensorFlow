@@ -7,6 +7,6 @@ Two models are created and evaluated:
   1. Model without regularization (Accuracy achieved: 0.9028)
   2. Model with regularization (Accuracy achieved: 0.9073)
 
-The notebook also distribution bar chart of each of the prediction distribution.
+The notebook also creates distribution bar charts of each of the prediction distribution.
 
 Your feedback to improve the model is always welcome. Thanks!
