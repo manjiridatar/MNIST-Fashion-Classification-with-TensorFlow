@@ -4,8 +4,8 @@ This repository contains a notebook with basic implementation of CNN image class
 
 Two models are created and evaluated:
 
-  1. Model without regularization 
-  2. Model with regularization
+  1. Model without regularization (Accuracy achieved: 0.9028)
+  2. Model with regularization (Accuracy achieved: 0.9073)
 
 The notebook also distribution bar chart of each of the prediction distribution.
 
