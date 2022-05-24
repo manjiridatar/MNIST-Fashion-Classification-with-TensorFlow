@@ -1,6 +1,6 @@
 # MNIST-Fashion-Classification-with-TensorFlow
 
-This repository contains a notebook with basic implementation of CNN image classification algorithms using TensorFlow.
+This repository contains a notebook with basic implementation of CNN image classification algorithms using TensorFlow for the MNIST Fashion dataset. This dataset is built into Keras and can be loaded using the load_data function on tf.keras.datasets.fashion_mnist
 
 Two models are created and evaluated:
 
